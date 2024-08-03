@@ -4,14 +4,12 @@
 		"unitType": "Sword",
 		"uniqueTo": "Morr'ha",
 		"replaces": "Swordsman",
-		"movement": 2,
-		"strength": 90,
-		"rangedStrength": 36,
-		"range": 2,
-		"cost": 500,
-		"requiredTech": "Ballistics",
-		"requiredResource": "Uranium",
+		"movement": 4,
+		"strength":24
+		"cost": 50,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
 		"promotions": ["Logistics","Accuracy I"],
-		"attackSound": "phasers"
+		"attackSound": "metalhit"
 	}
 ]
